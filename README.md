@@ -104,7 +104,7 @@ The model predicts house prices based on:
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/end-to-end-house-price-prediction.git
+git clone https://github.com/MrAkash/house-price-prediction-mlops.git
 ```
 
 ---
