@@ -14,10 +14,10 @@ This project demonstrates the complete ML deployment workflow including:
 # 🚀 Live Demo
 
 ## 🌐 Frontend
-https://your-frontend-url.onrender.com
+https://house-price-frontend-p72g.onrender.com
 
 ## ⚡ Backend API Docs
-https://your-backend-url.onrender.com/docs
+https://house-price-detection-end-to-end-project.onrender.com/docs
 
 ---
 
