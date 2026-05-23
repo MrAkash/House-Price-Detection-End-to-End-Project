@@ -11,7 +11,7 @@ class house(BaseModel):
     age:int
 @app.get("/")
 def home():
-    return {"message":"backend is running"}
+    return {"message":"backend is running successfully"}
 @app.post("/predict")
 def predicts(data:house):
     features=[[data.area,data.bedrooms,data.age]]
