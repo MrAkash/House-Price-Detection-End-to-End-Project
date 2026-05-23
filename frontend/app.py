@@ -10,7 +10,7 @@ age=st.number_input("Enter age")
 if st.button("Predict"):
     data={"area":area, "bedrooms":bedrooms, "age":age}
     response=requests.post(
-        "http://backend:8000/predict",
+        "https://house-price-detection-end-to-end-project.onrender.com/",
         json=data
     )
     result=response.json()     # received prediction from fastapi 
